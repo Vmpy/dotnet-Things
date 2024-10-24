@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitCode\\dotnet-Things\\Match-Game\\Match-Game\\Match-Game.csproj",
+      "projectUniqueName": "D:\\GitCode\\dotnet-Things\\Match-Game\\Match-Game.csproj",
       "projectName": "Match-Game",
-      "projectPath": "D:\\GitCode\\dotnet-Things\\Match-Game\\Match-Game\\Match-Game.csproj",
+      "projectPath": "D:\\GitCode\\dotnet-Things\\Match-Game\\Match-Game.csproj",
       "packagesPath": "C:\\Users\\29097\\.nuget\\packages\\",
-      "outputPath": "D:\\GitCode\\dotnet-Things\\Match-Game\\Match-Game\\obj\\",
+      "outputPath": "D:\\GitCode\\dotnet-Things\\Match-Game\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\29097\\AppData\\Roaming\\NuGet\\NuGet.Config",

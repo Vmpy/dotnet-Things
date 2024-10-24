@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\GitCode\\dotnet-Things\\Match-Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{094D7CA9-27EA-4ADA-9B5F-D2317026291D}|Match-Game.csproj|d:\\gitcode\\dotnet-things\\match-game\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{094D7CA9-27EA-4ADA-9B5F-D2317026291D}|Match-Game.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{094D7CA9-27EA-4ADA-9B5F-D2317026291D}|Match-Game.csproj|d:\\gitcode\\dotnet-things\\match-game\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{094D7CA9-27EA-4ADA-9B5F-D2317026291D}|Match-Game.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094D7CA9-27EA-4ADA-9B5F-D2317026291D}|Match-Game.csproj|d:\\gitcode\\dotnet-things\\match-game\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{094D7CA9-27EA-4ADA-9B5F-D2317026291D}|Match-Game.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{094D7CA9-27EA-4ADA-9B5F-D2317026291D}|Match-Game.csproj|d:\\gitcode\\dotnet-things\\match-game\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -22,8 +22,12 @@
       "DocumentGroups": [
         {
           "DockedHeight": 301,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -38,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\GitCode\\dotnet-Things\\Match-Game\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
@@ -50,13 +54,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\GitCode\\dotnet-Things\\Match-Game\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "D:\\GitCode\\dotnet-Things\\Match-Game\\MainWindow.xaml.cs",
-              "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAFAAAAAAAAAA==",
+              "ToolTip": "D:\\GitCode\\dotnet-Things\\Match-Game\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "MainWindow.xaml.cs*",
+              "ViewState": "AgIAADYAAAAAAAAAAAAQwD0AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T12:59:29.965Z",
               "EditorCaption": ""
